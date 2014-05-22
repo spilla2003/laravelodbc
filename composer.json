@@ -1,5 +1,5 @@
 {
-    "name": "jtgrimes/laravelodbc",
+    "name": "spilla2003/laravelodbc",
     "description": "Adds an ODBC driver to Laravel4",
     "keywords": ["laravel","database","odbc"],
     "license": "MIT",
@@ -11,8 +11,8 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "4.0.x",
-		"illuminate/database": "4.0.x"
+        "illuminate/support": "4.1.x",
+		"illuminate/database": "4.1.x"
     },
     "autoload": {
         "psr-0": {
